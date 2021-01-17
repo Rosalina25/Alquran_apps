@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alquran</string>
+    <string name="rosalina_saputri">Rosalina Saputri</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="google_maps_key">AIzaSyBb1CpNIjlu_t7U8Gh8Rqms7VQrCRJhBzc</string>
+
+</resources>
